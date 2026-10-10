@@ -1,0 +1,1001 @@
+age,years_experience,education,job_title,department,gender,performance_score,num_projects,salary
+60,13,Bachelor's,Director,HR,Male,4,6,112292
+50,21,High School,Engineer,Finance,Male,5,3,97997
+36,10,Master's,Director,HR,Male,5,6,99478
+29,11,High School,Manager,Operations,Female,2,7,75072
+42,0,Bachelor's,Director,Marketing,Female,1,1,70711
+60,20,PhD,Analyst,Engineering,Female,5,1,116029
+40,22,Master's,Scientist,HR,Male,3,5,110524
+44,22,Bachelor's,Manager,HR,Female,1,6,100068
+32,0,Master's,Analyst,Finance,Female,1,13,61876
+32,14,High School,Engineer,Operations,Male,5,2,83532
+45,20,High School,Manager,Finance,Female,3,15,105401
+57,8,Bachelor's,Scientist,Finance,Male,2,15,80610
+61,8,Bachelor's,Scientist,Operations,Female,5,13,98996
+45,9,Bachelor's,Engineer,Engineering,Male,3,14,85599
+24,6,Bachelor's,Engineer,Finance,Male,1,7,62692
+43,25,High School,Manager,Finance,Male,3,14,107888
+23,5,Bachelor's,Director,HR,Female,1,10,88790
+45,25,Bachelor's,Engineer,Operations,Male,5,17,119637
+51,10,Master's,Director,Marketing,Male,5,14,110847
+59,1,Bachelor's,Analyst,Engineering,Female,4,8,69429
+23,5,Bachelor's,Scientist,Engineering,Female,4,4,70028
+42,17,Bachelor's,Director,Operations,Male,4,16,112495
+54,26,High School,Scientist,HR,Male,5,13,102103
+33,15,High School,Director,HR,Male,2,18,97655
+43,25,Master's,Analyst,Operations,Male,5,14,118238
+46,16,Bachelor's,Engineer,HR,Female,3,18,101836
+48,23,High School,Analyst,Engineering,Female,5,5,99786
+49,24,Master's,Engineer,Engineering,Female,5,9,118285
+37,6,Bachelor's,Engineer,Marketing,Male,1,3,66546
+36,5,Bachelor's,Scientist,Operations,Female,1,8,71231
+24,6,Bachelor's,Analyst,Finance,Female,1,10,59529
+58,32,Bachelor's,Director,Finance,Female,5,19,147464
+28,10,Bachelor's,Analyst,Marketing,Female,2,3,64839
+42,21,High School,Scientist,Marketing,Female,3,11,96927
+30,12,Master's,Engineer,HR,Female,3,11,93464
+60,27,Master's,Scientist,Marketing,Male,2,17,125235
+39,20,Master's,Manager,Marketing,Female,2,16,103504
+25,6,Master's,Manager,Finance,Male,3,7,81947
+46,16,Bachelor's,Director,HR,Female,4,4,115298
+35,17,Master's,Scientist,Marketing,Male,1,19,91145
+30,12,Bachelor's,Director,Marketing,Female,1,12,102620
+47,21,Bachelor's,Director,HR,Female,3,15,127380
+23,5,Bachelor's,Manager,Operations,Male,2,11,75105
+41,6,High School,Director,HR,Male,4,5,88489
+49,0,Bachelor's,Manager,Finance,Female,3,5,74443
+28,10,PhD,Engineer,Operations,Female,1,15,95015
+29,11,Bachelor's,Scientist,Engineering,Male,5,18,82630
+56,29,High School,Director,HR,Male,2,11,131536
+35,17,Bachelor's,Manager,Finance,Female,5,12,113736
+38,18,Master's,Analyst,Operations,Male,3,2,90057
+57,31,Bachelor's,Director,HR,Male,1,15,130143
+61,29,Master's,Engineer,Marketing,Male,4,4,127916
+25,7,High School,Engineer,HR,Male,5,18,67368
+23,5,Bachelor's,Analyst,Engineering,Male,4,6,64124
+27,9,Bachelor's,Manager,HR,Male,1,19,88839
+25,7,Master's,Director,Operations,Male,5,11,95171
+50,18,Bachelor's,Manager,Operations,Male,4,2,113906
+39,17,High School,Engineer,HR,Male,4,8,83766
+47,0,High School,Manager,Operations,Male,5,11,72758
+55,13,High School,Engineer,Marketing,Male,1,5,76493
+31,1,Bachelor's,Manager,HR,Female,4,18,80076
+57,27,Bachelor's,Analyst,Marketing,Male,3,18,111209
+35,17,Bachelor's,Scientist,Marketing,Male,5,14,101777
+52,3,Bachelor's,Analyst,Finance,Male,2,10,63245
+36,0,Bachelor's,Analyst,HR,Male,2,3,47948
+29,7,High School,Scientist,Operations,Female,1,9,52809
+35,17,High School,Scientist,Marketing,Female,3,3,77904
+44,2,Master's,Director,Finance,Female,4,11,98178
+61,31,Bachelor's,Director,HR,Female,2,12,135665
+42,9,Master's,Analyst,HR,Female,1,12,74777
+37,9,Master's,Analyst,Engineering,Male,3,3,88996
+39,18,Bachelor's,Engineer,Engineering,Male,3,7,97094
+45,27,Master's,Engineer,Marketing,Male,1,14,116039
+47,29,Bachelor's,Director,Engineering,Male,1,11,133760
+46,22,PhD,Director,Marketing,Male,4,7,143798
+50,27,High School,Engineer,Operations,Female,1,10,99653
+36,18,High School,Engineer,Marketing,Male,4,11,90108
+22,4,Master's,Manager,Engineering,Female,4,15,87011
+46,28,PhD,Manager,Operations,Female,5,19,149373
+28,7,Master's,Engineer,Engineering,Male,3,16,89619
+30,0,High School,Manager,Marketing,Male,3,12,65170
+45,2,Bachelor's,Scientist,Finance,Male,3,18,60226
+22,4,PhD,Director,HR,Male,5,13,109659
+29,11,Bachelor's,Director,Engineering,Male,4,5,96193
+45,7,Master's,Engineer,Marketing,Male,4,4,82694
+32,2,Master's,Analyst,Operations,Male,1,14,69012
+38,20,Bachelor's,Engineer,Engineering,Male,5,8,101596
+29,11,Bachelor's,Manager,Engineering,Female,1,9,76851
+56,7,Bachelor's,Analyst,HR,Female,5,19,78083
+56,33,Bachelor's,Manager,Marketing,Female,1,3,129708
+54,34,Master's,Scientist,Finance,Male,2,5,133401
+26,8,Bachelor's,Manager,Operations,Male,3,18,82276
+60,23,Master's,Scientist,Marketing,Female,3,1,118856
+49,13,High School,Scientist,Operations,Male,4,8,91690
+28,10,PhD,Manager,Engineering,Male,2,19,111607
+30,12,Bachelor's,Manager,HR,Female,3,17,99704
+29,3,High School,Scientist,HR,Female,4,17,61411
+33,15,High School,Analyst,Finance,Male,2,11,71858
+55,13,Master's,Scientist,HR,Male,3,2,98357
+54,30,Master's,Director,Engineering,Male,1,6,142693
+44,17,Master's,Scientist,Finance,Male,5,14,114302
+45,6,High School,Analyst,Marketing,Male,2,3,51105
+58,9,High School,Director,HR,Male,4,12,99636
+56,6,Bachelor's,Engineer,Finance,Male,2,4,63060
+61,32,Bachelor's,Engineer,Engineering,Female,4,12,119721
+43,22,Bachelor's,Analyst,Operations,Female,2,13,105778
+48,20,PhD,Scientist,Operations,Female,4,2,121649
+56,18,PhD,Manager,Engineering,Male,3,2,130347
+22,4,PhD,Analyst,Engineering,Male,1,15,87091
+56,28,Master's,Director,Operations,Male,3,17,135627
+58,17,Bachelor's,Director,Finance,Male,1,7,115431
+35,1,Bachelor's,Engineer,Operations,Male,3,14,66744
+24,0,Bachelor's,Director,Engineering,Female,3,12,87101
+22,4,Master's,Analyst,HR,Female,2,17,63792
+26,8,High School,Director,Marketing,Male,5,14,98556
+47,10,Bachelor's,Analyst,HR,Male,4,6,73502
+35,1,High School,Manager,HR,Female,4,19,74773
+60,2,Bachelor's,Engineer,Engineering,Male,4,6,70219
+48,22,Master's,Director,Operations,Male,1,18,133953
+30,11,Master's,Analyst,Finance,Male,4,5,85544
+36,18,Bachelor's,Scientist,HR,Female,4,6,88202
+36,4,PhD,Engineer,Operations,Female,2,2,69397
+47,29,Master's,Manager,Finance,Male,3,8,135549
+34,8,High School,Analyst,HR,Female,4,15,64381
+53,33,Bachelor's,Manager,Finance,Female,5,15,141991
+60,34,Bachelor's,Manager,Operations,Male,4,11,138239
+53,21,High School,Director,Marketing,Male,1,1,116290
+25,7,PhD,Director,Operations,Male,1,18,111652
+51,16,Bachelor's,Analyst,Engineering,Female,1,12,80865
+58,9,Master's,Scientist,Finance,Male,4,12,99086
+44,26,Bachelor's,Analyst,Marketing,Female,2,11,99756
+60,22,High School,Scientist,Finance,Male,5,8,104964
+36,18,Bachelor's,Manager,Finance,Female,4,7,98612
+50,16,High School,Engineer,HR,Male,2,2,79357
+57,16,Bachelor's,Analyst,Engineering,Female,2,11,84110
+34,13,PhD,Analyst,Finance,Female,4,10,97586
+53,8,Bachelor's,Scientist,Operations,Female,4,3,91778
+28,1,Bachelor's,Manager,Operations,Female,2,10,62981
+43,24,High School,Manager,HR,Male,2,18,107234
+49,8,High School,Scientist,Engineering,Female,2,14,67385
+23,5,High School,Manager,Engineering,Male,4,18,75485
+27,3,Bachelor's,Director,Operations,Male,2,8,74828
+49,25,High School,Engineer,Marketing,Male,1,10,99501
+49,28,Bachelor's,Analyst,HR,Male,4,13,122280
+41,23,Bachelor's,Engineer,HR,Male,1,8,93302
+51,22,Bachelor's,Analyst,Operations,Female,3,4,102584
+32,10,High School,Director,Operations,Male,4,4,88690
+49,5,Bachelor's,Manager,Marketing,Female,3,5,88328
+46,17,PhD,Scientist,Marketing,Male,2,1,124042
+60,20,Master's,Director,Engineering,Male,2,17,129931
+54,33,Bachelor's,Engineer,HR,Male,5,2,118698
+22,4,High School,Scientist,HR,Female,2,8,61740
+48,24,PhD,Manager,Operations,Female,3,7,138522
+34,11,Master's,Director,Engineering,Female,2,15,111608
+24,6,Bachelor's,Scientist,HR,Female,4,5,71400
+60,21,Master's,Director,Engineering,Male,2,2,123977
+27,9,Bachelor's,Director,Engineering,Male,5,7,105001
+29,11,Bachelor's,Manager,Operations,Female,2,8,87598
+48,30,Bachelor's,Analyst,Engineering,Male,3,7,103982
+30,5,Bachelor's,Scientist,Marketing,Male,3,7,74034
+58,26,PhD,Manager,Marketing,Male,2,14,145030
+54,33,Master's,Director,Finance,Female,3,18,154473
+45,11,Bachelor's,Manager,Operations,Female,3,6,99199
+36,6,High School,Analyst,Finance,Male,5,4,58609
+53,9,High School,Scientist,Marketing,Male,4,10,76955
+53,16,Bachelor's,Analyst,Finance,Female,5,18,99143
+45,25,Master's,Engineer,Operations,Female,1,12,113483
+33,15,Bachelor's,Scientist,Operations,Male,5,16,89977
+60,27,Bachelor's,Analyst,Engineering,Female,2,7,106618
+23,1,Master's,Director,HR,Male,4,6,89128
+24,0,High School,Scientist,Engineering,Male,2,5,53584
+58,25,Master's,Scientist,Operations,Female,1,3,116756
+38,20,High School,Manager,Marketing,Female,4,12,102672
+23,5,PhD,Director,Marketing,Male,3,15,105358
+23,5,Bachelor's,Engineer,Engineering,Female,5,10,70949
+49,10,High School,Analyst,Operations,Female,2,19,73350
+44,26,Bachelor's,Manager,Marketing,Female,1,16,112017
+58,33,Bachelor's,Analyst,Operations,Female,3,11,119637
+53,23,Master's,Engineer,Marketing,Female,5,8,115217
+54,21,Master's,Engineer,Operations,Male,3,3,104080
+22,4,Bachelor's,Scientist,Finance,Male,5,7,71775
+40,22,High School,Engineer,Operations,Male,4,7,95569
+23,5,High School,Analyst,Operations,Male,3,14,65269
+47,18,High School,Director,Engineering,Female,3,2,102622
+53,34,Bachelor's,Director,Finance,Male,3,10,145049
+27,9,Master's,Scientist,HR,Male,4,19,87049
+53,33,Bachelor's,Analyst,Engineering,Male,1,9,116261
+25,7,High School,Analyst,HR,Male,5,16,66890
+32,14,Bachelor's,Engineer,Marketing,Male,3,19,95241
+38,1,Master's,Analyst,HR,Female,4,18,78358
+59,8,Master's,Manager,Operations,Male,1,9,96157
+45,8,Master's,Engineer,HR,Female,5,16,91349
+26,8,Bachelor's,Manager,Engineering,Female,4,13,87523
+55,0,High School,Scientist,Engineering,Male,5,10,63944
+27,9,Master's,Director,HR,Male,3,14,111066
+43,24,Master's,Scientist,Engineering,Male,1,12,118031
+32,14,Bachelor's,Director,Engineering,Female,4,19,108817
+37,2,Master's,Scientist,HR,Female,1,7,64290
+54,29,Master's,Analyst,Finance,Male,3,15,129666
+30,12,Bachelor's,Manager,Finance,Male,1,16,90809
+27,9,Master's,Director,Marketing,Female,1,8,97902
+37,18,Bachelor's,Engineer,Engineering,Male,2,10,93514
+50,16,Bachelor's,Manager,HR,Male,1,4,95874
+24,6,Bachelor's,Engineer,Engineering,Female,5,19,83393
+41,11,Master's,Manager,Operations,Female,4,19,97051
+57,15,Master's,Manager,Engineering,Female,2,15,108914
+40,22,Master's,Scientist,Engineering,Female,4,14,125795
+47,18,High School,Director,Finance,Female,4,1,109915
+24,6,Master's,Director,HR,Male,3,16,109763
+40,22,Master's,Manager,Engineering,Female,3,10,114990
+41,20,Master's,Analyst,Finance,Female,2,19,108260
+53,16,Master's,Analyst,Marketing,Female,3,3,100861
+28,10,Master's,Engineer,Finance,Male,3,5,77191
+54,15,Bachelor's,Engineer,Finance,Male,3,9,89522
+61,5,Bachelor's,Scientist,Finance,Male,4,18,82067
+60,7,High School,Manager,Engineering,Male,2,11,69802
+39,21,Bachelor's,Engineer,Engineering,Male,4,16,102026
+61,17,Bachelor's,Engineer,Marketing,Female,5,2,103265
+22,4,Master's,Manager,Operations,Female,4,12,86245
+32,11,Bachelor's,Scientist,Operations,Male,5,6,87710
+49,14,High School,Engineer,Operations,Female,1,11,77046
+46,25,Master's,Scientist,Marketing,Male,1,8,115039
+44,25,High School,Director,Operations,Male,5,12,121374
+52,31,High School,Scientist,Operations,Male,5,2,120594
+51,9,High School,Analyst,Finance,Male,4,9,61164
+56,15,High School,Analyst,Engineering,Male,5,15,85242
+28,6,High School,Scientist,Engineering,Male,2,2,66927
+37,16,Bachelor's,Analyst,Finance,Male,1,1,74763
+47,22,Bachelor's,Director,Finance,Female,1,10,113863
+23,5,Master's,Manager,Finance,Male,5,2,93327
+22,4,Bachelor's,Analyst,Engineering,Female,3,12,61517
+33,15,Master's,Analyst,Operations,Female,3,8,95227
+26,6,High School,Scientist,Finance,Female,5,5,68192
+58,13,Bachelor's,Director,Marketing,Female,2,1,91358
+53,14,Master's,Manager,Finance,Male,3,15,116699
+30,6,High School,Scientist,HR,Male,5,6,79450
+56,8,Bachelor's,Scientist,Finance,Female,2,12,86620
+40,7,Bachelor's,Director,Engineering,Male,2,8,73305
+37,19,Bachelor's,Manager,Finance,Female,4,13,110755
+24,6,High School,Director,HR,Female,2,19,78966
+41,17,Bachelor's,Manager,Marketing,Female,3,1,94178
+45,27,Bachelor's,Director,Operations,Female,3,11,132013
+54,29,High School,Scientist,Finance,Female,5,1,113055
+45,27,Master's,Scientist,HR,Female,5,8,131043
+32,14,Master's,Engineer,HR,Male,2,5,91382
+29,11,PhD,Analyst,Marketing,Female,1,17,87595
+57,13,Bachelor's,Director,Engineering,Male,4,8,107316
+59,30,Master's,Engineer,Finance,Male,1,10,120610
+61,23,Bachelor's,Analyst,HR,Female,2,2,88617
+41,23,Bachelor's,Director,Marketing,Male,2,9,113441
+56,33,High School,Manager,Operations,Male,1,3,117944
+46,2,Master's,Analyst,HR,Male,4,18,83318
+56,25,Bachelor's,Scientist,Marketing,Female,1,7,104122
+46,22,Bachelor's,Engineer,Engineering,Male,5,15,105012
+50,14,High School,Analyst,Engineering,Female,3,18,72193
+39,3,Master's,Analyst,HR,Male,5,3,74752
+39,21,Master's,Scientist,HR,Female,3,14,119196
+23,5,Master's,Director,Finance,Female,2,2,102213
+56,24,Bachelor's,Manager,Marketing,Male,4,14,123026
+37,12,High School,Scientist,HR,Male,1,11,73499
+57,17,Bachelor's,Manager,Finance,Male,4,16,107082
+54,32,Bachelor's,Director,Finance,Female,1,8,134417
+25,7,High School,Analyst,HR,Female,5,7,65345
+54,1,Master's,Manager,Engineering,Female,5,11,89825
+35,17,PhD,Engineer,Marketing,Male,1,3,105188
+42,24,Master's,Engineer,Marketing,Female,4,17,119573
+41,23,Master's,Scientist,Engineering,Female,1,14,109345
+29,11,PhD,Director,HR,Female,2,6,117025
+28,10,Bachelor's,Scientist,Marketing,Female,5,8,74402
+24,6,Bachelor's,Scientist,HR,Male,2,5,70844
+38,20,PhD,Scientist,HR,Male,5,8,138258
+54,31,High School,Engineer,Finance,Female,5,2,111939
+33,15,Master's,Engineer,Engineering,Female,3,15,100469
+43,25,Bachelor's,Scientist,HR,Female,2,12,112457
+43,25,Bachelor's,Engineer,Operations,Male,2,17,113101
+51,15,Master's,Director,Engineering,Male,3,1,116678
+59,9,PhD,Scientist,Marketing,Male,4,15,101483
+59,29,Master's,Engineer,Finance,Male,2,14,127536
+29,11,High School,Manager,Marketing,Female,1,16,78543
+48,19,Master's,Scientist,Marketing,Female,3,9,108271
+48,4,Bachelor's,Scientist,Engineering,Male,2,1,67432
+55,0,Bachelor's,Director,Marketing,Male,4,17,89818
+42,24,Bachelor's,Analyst,HR,Male,2,13,100308
+51,2,Bachelor's,Analyst,Marketing,Male,5,5,67399
+54,13,Bachelor's,Director,Finance,Female,1,10,101611
+49,29,PhD,Director,Finance,Female,3,6,158221
+54,3,Master's,Director,Operations,Male,5,19,105974
+26,8,Bachelor's,Analyst,Finance,Female,4,13,74710
+40,22,High School,Director,Marketing,Female,5,1,112262
+25,0,PhD,Engineer,Finance,Female,5,15,87365
+56,14,PhD,Scientist,Engineering,Male,4,14,110481
+38,8,Master's,Scientist,Finance,Female,5,8,91050
+49,14,High School,Manager,HR,Male,3,10,93337
+51,23,High School,Manager,Engineering,Male,2,9,99131
+50,3,Bachelor's,Scientist,Operations,Male,5,17,77399
+27,9,High School,Engineer,HR,Male,3,9,54774
+56,5,Bachelor's,Analyst,Marketing,Male,2,3,57259
+58,23,PhD,Analyst,Marketing,Male,2,11,115767
+45,10,Bachelor's,Engineer,Marketing,Male,5,12,86608
+50,12,High School,Analyst,HR,Female,3,10,73767
+52,33,Bachelor's,Director,HR,Female,5,17,150119
+56,24,High School,Scientist,HR,Male,4,17,105587
+54,6,High School,Scientist,Engineering,Female,2,11,66004
+42,3,Bachelor's,Engineer,Engineering,Female,5,4,74080
+53,7,Bachelor's,Analyst,Marketing,Female,2,7,69364
+44,19,Master's,Manager,Finance,Male,3,14,116030
+54,28,PhD,Manager,Marketing,Female,1,7,147266
+24,6,Bachelor's,Analyst,Operations,Female,5,8,78249
+39,21,Bachelor's,Manager,Engineering,Female,5,1,105171
+46,25,Master's,Engineer,HR,Male,2,4,116012
+52,2,Bachelor's,Engineer,Engineering,Male,3,12,83549
+24,5,High School,Analyst,HR,Female,4,3,56101
+61,4,Master's,Manager,Operations,Male,3,13,94377
+45,4,High School,Engineer,Operations,Male,5,6,65221
+53,22,Bachelor's,Engineer,Engineering,Male,4,11,108950
+43,8,Bachelor's,Director,HR,Female,3,4,98474
+44,26,Bachelor's,Director,Operations,Female,1,16,119676
+23,5,Bachelor's,Engineer,Marketing,Male,2,7,63567
+48,30,Master's,Analyst,Marketing,Female,3,11,111052
+23,5,High School,Scientist,HR,Male,3,1,58353
+47,16,Bachelor's,Scientist,Engineering,Female,1,7,84286
+38,20,Master's,Engineer,Operations,Female,5,12,114395
+61,2,Bachelor's,Engineer,Engineering,Female,2,7,57618
+54,31,High School,Engineer,Marketing,Female,3,7,108638
+30,12,Master's,Analyst,Operations,Male,4,10,93432
+60,12,Bachelor's,Director,Engineering,Female,3,16,105518
+50,24,Master's,Engineer,Finance,Male,2,8,104075
+47,8,Master's,Engineer,HR,Female,3,9,88287
+56,3,Bachelor's,Manager,HR,Female,1,9,71867
+46,13,Bachelor's,Analyst,Finance,Female,3,2,77770
+45,27,PhD,Engineer,Marketing,Male,3,13,130350
+34,10,High School,Manager,Operations,Female,4,13,93571
+28,2,Master's,Scientist,HR,Male,1,4,61109
+57,27,High School,Engineer,Finance,Male,1,12,115267
+41,23,Bachelor's,Engineer,Finance,Female,3,17,103246
+22,4,Bachelor's,Manager,Marketing,Male,4,2,76117
+29,2,PhD,Analyst,Marketing,Female,3,13,77926
+37,19,PhD,Engineer,Engineering,Male,3,18,116416
+35,17,High School,Scientist,HR,Male,2,15,81175
+33,11,High School,Engineer,Engineering,Female,2,8,71806
+44,8,Master's,Scientist,Finance,Male,4,15,86646
+36,14,Bachelor's,Director,Operations,Male,5,1,110020
+49,24,High School,Director,Operations,Female,2,10,105077
+55,4,Master's,Scientist,Marketing,Male,5,12,91667
+23,5,Bachelor's,Analyst,Operations,Female,1,5,59845
+53,33,PhD,Engineer,Operations,Male,2,9,136327
+44,23,Bachelor's,Engineer,Operations,Female,2,8,103993
+43,14,Bachelor's,Director,Finance,Female,4,16,111856
+46,7,Bachelor's,Scientist,Operations,Female,5,14,92492
+43,4,Master's,Engineer,Operations,Male,2,13,73423
+43,25,Bachelor's,Engineer,Operations,Female,2,13,119579
+27,9,Bachelor's,Analyst,Engineering,Female,4,5,59146
+36,5,Bachelor's,Manager,Finance,Female,4,16,82352
+58,12,Master's,Director,Marketing,Male,5,11,113507
+54,27,Bachelor's,Director,Engineering,Female,1,5,135655
+29,4,High School,Manager,HR,Female,1,13,63091
+26,8,Master's,Engineer,Finance,Male,3,11,82541
+60,16,Bachelor's,Analyst,Finance,Male,2,19,91716
+25,7,High School,Analyst,HR,Female,5,3,60975
+27,9,Master's,Director,HR,Male,2,15,101131
+53,2,Bachelor's,Analyst,HR,Female,5,7,60516
+51,33,Master's,Manager,Marketing,Female,5,7,148042
+56,26,Bachelor's,Engineer,Operations,Female,5,6,117194
+61,12,Master's,Manager,Finance,Male,2,3,106176
+37,19,High School,Scientist,Operations,Male,4,13,103063
+34,5,Bachelor's,Director,Operations,Female,2,7,75031
+51,23,PhD,Analyst,HR,Male,5,5,125261
+40,18,Master's,Scientist,Marketing,Female,3,18,115258
+38,15,Bachelor's,Analyst,Engineering,Male,1,8,76877
+40,22,Bachelor's,Engineer,Marketing,Male,5,17,96509
+49,31,Master's,Engineer,Operations,Male,3,1,119944
+47,12,Bachelor's,Engineer,Marketing,Male,4,14,89842
+58,24,Master's,Analyst,HR,Female,5,17,121860
+47,26,Master's,Scientist,Engineering,Male,3,10,126062
+44,6,High School,Engineer,HR,Male,5,12,66794
+30,4,High School,Scientist,Engineering,Male,2,16,62299
+33,15,Master's,Analyst,Operations,Male,3,14,88570
+22,4,High School,Scientist,Engineering,Male,2,16,60699
+22,4,Bachelor's,Analyst,Engineering,Female,2,8,57266
+55,31,PhD,Analyst,Engineering,Male,3,10,133195
+53,29,Bachelor's,Director,Marketing,Male,1,17,141190
+46,28,Master's,Analyst,Marketing,Male,3,18,111971
+61,17,Bachelor's,Analyst,Operations,Female,1,16,87391
+22,1,Bachelor's,Manager,Engineering,Male,5,17,72585
+37,13,High School,Engineer,Finance,Male,5,16,92271
+60,12,Bachelor's,Director,Operations,Female,3,19,112791
+26,8,Bachelor's,Director,Engineering,Female,5,8,94253
+43,11,Bachelor's,Director,Engineering,Male,4,6,101801
+50,1,Master's,Manager,Marketing,Male,2,6,90906
+24,6,Bachelor's,Analyst,Operations,Female,2,9,56568
+33,12,Bachelor's,Engineer,Engineering,Male,1,4,66077
+47,26,Bachelor's,Scientist,Engineering,Female,5,12,119755
+37,16,High School,Analyst,Operations,Female,1,12,73868
+58,30,Bachelor's,Manager,Finance,Male,2,17,132030
+43,25,High School,Analyst,Operations,Male,2,15,96463
+50,23,High School,Analyst,Operations,Male,5,9,105453
+35,17,High School,Manager,Finance,Female,4,7,86109
+49,5,Bachelor's,Director,Operations,Male,4,10,88785
+26,8,Master's,Director,Engineering,Male,5,16,113211
+51,29,Bachelor's,Engineer,Operations,Female,5,12,115971
+26,6,Bachelor's,Engineer,Finance,Female,1,7,56317
+33,9,Bachelor's,Director,HR,Male,5,18,113029
+37,19,High School,Scientist,Operations,Female,4,15,86000
+47,29,Master's,Analyst,Marketing,Male,5,6,122143
+47,27,Bachelor's,Scientist,Engineering,Male,1,12,109803
+42,14,Bachelor's,Analyst,Engineering,Male,1,11,83945
+60,29,Bachelor's,Director,Marketing,Male,1,3,121255
+57,28,High School,Engineer,Marketing,Male,1,2,101977
+54,21,Bachelor's,Engineer,Operations,Male,3,6,96448
+51,3,Bachelor's,Scientist,Marketing,Female,5,5,78738
+58,19,Master's,Engineer,HR,Female,2,18,104665
+44,26,High School,Director,Finance,Female,5,16,135761
+31,3,Bachelor's,Scientist,Marketing,Male,3,8,62995
+26,8,Bachelor's,Analyst,Marketing,Male,1,11,51090
+57,16,High School,Engineer,HR,Male,3,10,81755
+55,11,Bachelor's,Manager,Engineering,Female,4,12,96093
+52,21,Master's,Engineer,Engineering,Female,4,6,118411
+31,13,Master's,Analyst,Operations,Male,5,5,85307
+40,9,Bachelor's,Scientist,HR,Male,5,9,79206
+53,0,Master's,Analyst,Finance,Male,2,16,73202
+22,4,PhD,Manager,Finance,Male,2,14,88923
+26,8,Master's,Director,HR,Male,4,8,104105
+25,7,High School,Engineer,Finance,Female,1,19,60006
+37,13,Master's,Scientist,Engineering,Female,3,14,99587
+45,27,Bachelor's,Director,Finance,Male,2,7,123950
+37,11,PhD,Analyst,Finance,Male,2,5,89065
+23,5,Bachelor's,Scientist,HR,Female,1,18,69174
+49,11,High School,Director,HR,Male,1,2,83220
+53,6,Master's,Scientist,Finance,Male,5,11,86400
+48,28,Bachelor's,Manager,Marketing,Male,3,8,129038
+41,10,PhD,Manager,HR,Male,1,1,106440
+45,27,PhD,Engineer,Operations,Male,2,12,140037
+33,5,Master's,Engineer,Operations,Female,2,2,78119
+56,14,High School,Manager,Engineering,Male,4,18,90459
+54,31,Master's,Scientist,Finance,Male,1,7,127681
+54,10,High School,Manager,Marketing,Female,5,17,86321
+58,22,High School,Engineer,Engineering,Male,3,14,89641
+33,15,Master's,Manager,Finance,Female,5,7,108964
+24,6,Bachelor's,Manager,HR,Female,2,3,79407
+22,4,Bachelor's,Scientist,Operations,Male,5,6,73274
+54,28,PhD,Director,Marketing,Female,2,2,144845
+61,3,Bachelor's,Engineer,Operations,Male,2,17,68288
+31,13,Bachelor's,Scientist,HR,Female,2,12,83485
+50,32,PhD,Manager,Finance,Male,2,12,142754
+34,12,High School,Manager,HR,Female,2,17,87065
+33,14,Master's,Director,HR,Female,4,10,116656
+52,28,PhD,Engineer,Operations,Male,5,3,132247
+23,5,PhD,Engineer,Marketing,Male,4,18,86764
+56,10,Master's,Analyst,HR,Female,4,13,96603
+44,26,Bachelor's,Engineer,Operations,Female,1,12,102795
+38,1,Bachelor's,Director,Marketing,Male,1,17,85951
+47,13,Master's,Analyst,Finance,Female,1,4,92360
+29,11,Master's,Analyst,Finance,Male,3,10,89212
+50,21,Bachelor's,Manager,Engineering,Male,1,11,103932
+47,10,Bachelor's,Manager,Operations,Male,5,6,82210
+31,13,High School,Engineer,Marketing,Male,4,6,77964
+47,2,High School,Analyst,HR,Female,5,9,68657
+55,16,Master's,Manager,Finance,Male,1,15,109623
+28,10,Bachelor's,Director,Marketing,Female,3,2,84750
+25,7,PhD,Manager,Operations,Male,3,4,97925
+32,14,Master's,Manager,Engineering,Male,4,5,105181
+50,15,High School,Analyst,Finance,Male,5,17,79110
+57,19,Bachelor's,Analyst,Marketing,Male,2,8,78180
+46,5,Bachelor's,Scientist,Marketing,Male,5,8,78610
+42,18,Bachelor's,Director,Marketing,Male,1,12,105975
+57,4,Master's,Analyst,Operations,Female,2,8,82863
+31,2,Master's,Engineer,Operations,Male,3,19,76505
+58,0,Master's,Director,Operations,Male,4,3,97847
+30,12,Bachelor's,Director,HR,Male,4,18,105404
+45,27,High School,Analyst,Marketing,Female,3,19,101268
+56,34,Master's,Director,Finance,Female,1,19,145338
+56,24,High School,Analyst,Operations,Male,3,15,91199
+57,23,Bachelor's,Manager,Operations,Male,1,6,115543
+39,11,High School,Scientist,Marketing,Male,2,16,76447
+60,17,Master's,Manager,Operations,Female,3,8,113507
+53,14,High School,Analyst,HR,Male,1,16,75530
+45,15,Master's,Analyst,HR,Male,2,18,96929
+44,26,PhD,Manager,Operations,Male,3,16,152854
+53,7,High School,Engineer,Marketing,Male,4,11,72315
+58,24,High School,Engineer,Marketing,Male,3,7,94087
+33,15,Bachelor's,Engineer,Marketing,Female,5,17,93621
+34,16,Master's,Analyst,Engineering,Male,3,17,99237
+44,7,Bachelor's,Director,Operations,Female,5,12,105478
+46,14,Bachelor's,Analyst,Marketing,Male,2,13,73224
+56,26,High School,Director,HR,Male,3,10,124768
+51,6,Master's,Manager,Finance,Female,2,7,86613
+38,2,Bachelor's,Scientist,Finance,Male,2,14,63566
+41,23,Master's,Director,Marketing,Female,1,1,129629
+46,23,PhD,Engineer,Finance,Male,2,17,129431
+43,2,Bachelor's,Analyst,Finance,Male,2,4,53009
+34,16,Master's,Manager,Engineering,Female,3,5,106810
+40,14,High School,Engineer,HR,Male,3,7,75119
+57,24,Master's,Manager,HR,Female,4,10,145058
+33,15,Master's,Scientist,Engineering,Male,1,17,98591
+40,13,Master's,Analyst,Engineering,Female,2,7,82302
+33,6,High School,Analyst,Finance,Male,1,1,56810
+30,12,High School,Scientist,Operations,Male,5,7,86987
+28,10,Bachelor's,Analyst,Finance,Female,2,11,78858
+49,8,Bachelor's,Director,Engineering,Female,1,9,102839
+35,17,Bachelor's,Manager,HR,Female,4,12,107738
+52,1,Bachelor's,Engineer,Finance,Female,4,3,64350
+40,22,High School,Scientist,Operations,Female,2,4,90786
+37,7,Bachelor's,Director,Finance,Male,5,4,95239
+26,8,Master's,Engineer,Marketing,Male,4,13,84481
+56,12,Bachelor's,Engineer,Finance,Male,4,19,97699
+33,15,High School,Scientist,Engineering,Male,5,10,87103
+46,7,Bachelor's,Director,HR,Male,1,5,93657
+42,20,High School,Engineer,HR,Male,4,7,94882
+57,17,PhD,Engineer,Engineering,Male,3,16,113806
+44,26,High School,Director,Marketing,Female,4,1,112314
+37,17,Master's,Analyst,Engineering,Male,1,12,85916
+60,30,PhD,Engineer,Finance,Male,1,2,131966
+60,31,Master's,Manager,Engineering,Male,2,7,138571
+35,10,Master's,Director,Engineering,Female,3,11,105558
+52,24,Master's,Engineer,Marketing,Female,1,13,116515
+26,8,PhD,Scientist,Finance,Female,5,2,98061
+56,7,Bachelor's,Manager,Operations,Male,3,7,87684
+44,10,Bachelor's,Engineer,Operations,Male,3,15,82387
+50,21,Bachelor's,Manager,HR,Male,5,11,125272
+32,14,Bachelor's,Manager,Engineering,Male,4,2,90323
+39,16,Bachelor's,Analyst,HR,Male,5,7,100242
+33,11,Bachelor's,Manager,Marketing,Male,5,4,90128
+30,12,Bachelor's,Analyst,Operations,Male,4,11,72199
+31,13,High School,Director,Engineering,Female,4,2,94115
+38,15,High School,Analyst,Marketing,Female,4,16,95600
+59,21,Bachelor's,Scientist,Marketing,Male,4,7,112176
+28,10,High School,Engineer,Engineering,Male,4,13,75514
+34,16,Bachelor's,Director,Marketing,Male,5,5,116575
+61,32,Bachelor's,Director,Engineering,Male,2,17,139052
+30,9,Master's,Scientist,Engineering,Female,2,12,88430
+48,30,High School,Analyst,Finance,Male,1,19,101812
+23,5,Bachelor's,Engineer,HR,Female,2,7,72745
+26,1,Master's,Analyst,Marketing,Male,2,6,61256
+50,32,Bachelor's,Manager,Marketing,Female,5,8,133608
+58,32,High School,Analyst,Finance,Male,4,13,107276
+59,12,Master's,Director,Finance,Female,4,5,118600
+40,22,Master's,Engineer,Finance,Male,5,2,115164
+29,11,Bachelor's,Analyst,Operations,Female,2,9,65292
+22,4,Bachelor's,Engineer,Operations,Male,5,11,72665
+43,25,PhD,Engineer,Operations,Male,1,6,124065
+38,20,Bachelor's,Manager,Engineering,Female,4,7,113767
+28,1,Bachelor's,Manager,Marketing,Female,3,7,76061
+46,25,Master's,Director,HR,Female,1,19,135871
+25,7,Bachelor's,Scientist,Engineering,Female,1,6,62718
+57,33,Bachelor's,Engineer,Marketing,Female,5,11,125446
+27,9,Bachelor's,Scientist,Marketing,Male,2,11,84710
+52,2,Master's,Director,Finance,Male,4,7,99927
+40,5,Bachelor's,Engineer,Finance,Male,3,2,76830
+60,8,Master's,Engineer,Engineering,Female,1,19,90093
+48,5,Bachelor's,Scientist,Finance,Male,3,4,77068
+31,8,Bachelor's,Analyst,Marketing,Male,2,6,70093
+47,29,Bachelor's,Manager,Finance,Female,2,17,118584
+40,22,Master's,Analyst,Operations,Female,3,5,106134
+60,11,Bachelor's,Scientist,Finance,Male,4,7,83715
+24,6,High School,Manager,Marketing,Male,2,9,66875
+34,7,Master's,Analyst,Engineering,Male,3,1,78400
+49,27,High School,Manager,HR,Male,1,1,101073
+41,19,PhD,Engineer,Finance,Male,3,19,123396
+49,6,High School,Analyst,Marketing,Female,3,6,52408
+29,10,Master's,Manager,HR,Female,5,18,110416
+60,19,High School,Manager,HR,Female,2,10,95877
+22,4,PhD,Manager,Operations,Male,4,11,94764
+24,3,Bachelor's,Analyst,HR,Female,4,1,51323
+34,5,High School,Director,Marketing,Male,5,1,80703
+49,21,Bachelor's,Analyst,Marketing,Male,4,13,89961
+46,25,High School,Scientist,Finance,Female,3,5,98458
+54,2,High School,Analyst,Finance,Male,5,1,62697
+59,13,PhD,Manager,Finance,Male,1,3,112656
+27,9,Bachelor's,Engineer,HR,Female,2,18,69112
+53,17,Master's,Analyst,HR,Male,2,9,98031
+42,11,Bachelor's,Analyst,Operations,Female,2,14,76089
+37,19,Master's,Manager,Finance,Male,3,17,126983
+42,11,High School,Engineer,Engineering,Female,1,14,73853
+32,12,Bachelor's,Engineer,Operations,Male,5,4,86227
+58,24,Master's,Scientist,Engineering,Male,5,5,129325
+57,18,PhD,Analyst,HR,Female,2,17,113228
+56,7,Bachelor's,Engineer,Operations,Male,1,2,69522
+40,22,Bachelor's,Engineer,Operations,Male,1,5,102894
+41,23,Bachelor's,Director,Marketing,Male,1,4,108122
+39,17,PhD,Director,HR,Male,4,4,139439
+35,5,Bachelor's,Engineer,HR,Male,4,6,70246
+36,17,Bachelor's,Scientist,Operations,Male,2,13,91242
+52,18,Master's,Engineer,HR,Female,1,5,97035
+22,4,High School,Manager,Operations,Male,1,7,61968
+24,6,High School,Analyst,Marketing,Male,5,1,58182
+37,2,Bachelor's,Scientist,Operations,Male,5,14,71626
+44,26,PhD,Manager,HR,Male,2,4,133286
+32,9,Bachelor's,Scientist,HR,Female,1,17,66673
+33,15,Bachelor's,Manager,Operations,Male,2,14,92180
+31,13,Bachelor's,Analyst,Operations,Female,5,16,82338
+53,14,Bachelor's,Analyst,Operations,Male,5,14,91256
+37,19,Bachelor's,Director,Finance,Female,4,16,129215
+29,6,Bachelor's,Manager,HR,Male,2,8,73920
+59,11,Bachelor's,Director,HR,Female,2,3,95381
+33,15,Bachelor's,Manager,Finance,Female,1,19,91227
+45,20,Bachelor's,Director,Operations,Male,1,1,111566
+49,30,Bachelor's,Analyst,Marketing,Male,4,2,115343
+29,11,Master's,Scientist,Operations,Male,3,15,97241
+49,19,High School,Director,Operations,Female,3,10,113638
+57,3,Master's,Manager,Finance,Male,3,18,97546
+47,27,Master's,Manager,HR,Male,2,14,128805
+29,11,Bachelor's,Analyst,Operations,Female,2,17,83965
+49,23,Bachelor's,Manager,HR,Male,5,13,118826
+49,31,Bachelor's,Engineer,Engineering,Female,2,1,114446
+58,33,Bachelor's,Scientist,HR,Female,2,5,129979
+57,1,Bachelor's,Director,Marketing,Female,2,13,87932
+48,14,High School,Scientist,Marketing,Female,4,14,75795
+38,20,Bachelor's,Analyst,Operations,Male,2,3,87528
+30,5,Master's,Director,HR,Male,1,15,99309
+54,11,Bachelor's,Director,Operations,Male,1,19,95082
+41,2,Master's,Engineer,Finance,Male,5,17,86153
+34,16,Bachelor's,Analyst,Marketing,Female,4,3,86450
+49,20,Master's,Manager,Operations,Female,1,16,122019
+50,14,Bachelor's,Engineer,Finance,Male,4,14,88940
+34,16,High School,Engineer,Operations,Male,4,12,89179
+56,34,Master's,Scientist,HR,Female,5,12,145298
+27,9,High School,Scientist,HR,Male,4,11,81730
+39,7,Bachelor's,Scientist,HR,Male,2,17,90430
+26,8,PhD,Engineer,HR,Male,4,8,104691
+46,22,High School,Manager,Engineering,Female,5,17,113802
+23,5,Bachelor's,Director,Finance,Female,5,11,104005
+31,13,Master's,Scientist,Finance,Female,5,2,101717
+51,1,Master's,Manager,HR,Female,1,10,75960
+26,4,Master's,Analyst,Engineering,Male,2,10,68203
+54,13,Bachelor's,Scientist,HR,Male,1,11,89808
+22,4,Master's,Director,Engineering,Female,3,6,98029
+39,19,Bachelor's,Analyst,HR,Male,2,4,80573
+53,1,Master's,Analyst,Marketing,Female,4,12,68532
+32,5,PhD,Director,Marketing,Female,5,11,114493
+42,16,Master's,Scientist,Operations,Female,3,13,107272
+47,24,Master's,Engineer,HR,Female,2,5,115412
+46,27,High School,Director,Finance,Female,1,6,117806
+43,1,Master's,Director,Operations,Female,5,1,92027
+48,30,Master's,Director,Marketing,Male,1,6,149584
+34,4,High School,Analyst,HR,Male,2,18,49039
+54,0,Master's,Manager,Operations,Male,2,9,88011
+55,11,Bachelor's,Engineer,HR,Female,3,15,89494
+56,22,Master's,Scientist,Marketing,Male,4,8,125601
+22,4,Master's,Scientist,Operations,Female,1,19,73577
+42,10,Master's,Manager,Marketing,Male,3,16,100986
+27,9,High School,Director,Engineering,Female,5,6,91175
+49,2,Bachelor's,Engineer,Marketing,Male,4,6,65818
+38,13,Bachelor's,Scientist,HR,Female,3,3,86526
+26,8,PhD,Scientist,Finance,Male,1,10,100995
+52,9,Bachelor's,Director,Marketing,Male,2,1,88415
+26,8,Bachelor's,Manager,Finance,Male,5,14,86013
+59,9,Master's,Engineer,Engineering,Female,1,4,80871
+24,6,Bachelor's,Manager,Operations,Male,4,12,81727
+44,26,Bachelor's,Manager,Operations,Male,4,6,119722
+58,0,Bachelor's,Engineer,Finance,Female,2,11,66761
+58,4,Master's,Engineer,Operations,Female,2,12,80568
+31,13,Bachelor's,Scientist,Marketing,Female,5,10,92614
+31,7,Bachelor's,Scientist,Finance,Male,5,18,84692
+40,11,High School,Engineer,HR,Male,2,7,71127
+38,0,High School,Analyst,Marketing,Female,2,7,48216
+42,19,High School,Scientist,Marketing,Male,4,11,93288
+35,17,High School,Analyst,Marketing,Female,2,4,82031
+30,11,Bachelor's,Engineer,HR,Male,3,1,89308
+22,4,Master's,Scientist,Engineering,Male,1,13,77531
+34,14,Bachelor's,Manager,Operations,Male,2,18,96539
+25,5,Master's,Engineer,Finance,Male,5,9,85322
+22,4,PhD,Director,Engineering,Male,3,9,101294
+61,13,Master's,Analyst,Finance,Male,5,9,99700
+53,1,Master's,Engineer,Operations,Female,3,10,72243
+55,8,Bachelor's,Engineer,HR,Male,2,2,76549
+49,19,Bachelor's,Scientist,Marketing,Female,1,6,90668
+52,25,High School,Scientist,Marketing,Female,5,15,108676
+29,11,Bachelor's,Scientist,HR,Female,3,3,70640
+60,0,PhD,Director,Engineering,Male,4,11,104433
+47,29,Master's,Scientist,Engineering,Female,2,6,126174
+55,5,Bachelor's,Engineer,Finance,Female,1,3,62055
+24,4,Bachelor's,Scientist,HR,Female,2,11,71618
+33,15,Master's,Manager,Engineering,Female,4,15,106330
+22,4,High School,Scientist,HR,Female,1,13,58266
+26,8,Bachelor's,Director,Operations,Female,4,10,91790
+51,19,Master's,Manager,Marketing,Male,2,6,116127
+51,23,Bachelor's,Engineer,Marketing,Female,3,15,98926
+38,20,High School,Engineer,Marketing,Male,2,18,86734
+44,24,Bachelor's,Analyst,HR,Female,2,18,96168
+36,18,Master's,Manager,HR,Male,2,7,114116
+58,30,Bachelor's,Analyst,Finance,Male,5,15,122911
+42,22,Bachelor's,Manager,Marketing,Female,4,18,110237
+35,17,Bachelor's,Manager,Finance,Female,4,18,104984
+23,5,Bachelor's,Director,Marketing,Male,4,9,85438
+32,14,Bachelor's,Analyst,Finance,Male,5,2,87451
+60,7,Master's,Director,Finance,Female,3,8,113857
+59,20,High School,Manager,Operations,Male,2,2,91191
+55,0,Master's,Engineer,Finance,Female,3,11,78933
+59,7,High School,Manager,HR,Male,5,7,79883
+55,28,Bachelor's,Director,Finance,Female,4,6,134935
+39,21,High School,Analyst,Marketing,Female,2,10,83761
+51,4,Bachelor's,Analyst,Finance,Male,1,5,68483
+36,18,Bachelor's,Director,Engineering,Male,1,11,103380
+48,30,Bachelor's,Analyst,Marketing,Male,3,1,113573
+55,0,High School,Scientist,Engineering,Female,4,2,53742
+59,25,Bachelor's,Engineer,Marketing,Male,1,1,96397
+54,9,High School,Engineer,HR,Female,3,19,75342
+45,27,Master's,Engineer,HR,Male,5,2,123808
+36,17,PhD,Analyst,HR,Male,3,4,92338
+51,16,Bachelor's,Analyst,Engineering,Male,3,12,93897
+38,20,Bachelor's,Manager,Operations,Male,3,18,98804
+26,7,Bachelor's,Manager,Marketing,Female,2,1,75370
+50,11,High School,Engineer,HR,Female,3,1,79238
+25,7,Bachelor's,Scientist,Marketing,Female,3,14,86345
+31,7,Master's,Manager,Engineering,Male,2,4,86184
+38,20,Bachelor's,Manager,Operations,Female,2,5,95935
+31,3,High School,Analyst,Engineering,Female,5,11,63852
+38,20,Master's,Scientist,Marketing,Female,4,13,117825
+41,0,Bachelor's,Engineer,Operations,Male,1,16,56055
+45,18,Master's,Manager,Operations,Male,1,13,107721
+26,8,Bachelor's,Scientist,Engineering,Male,3,2,70113
+55,15,Bachelor's,Scientist,HR,Female,5,16,99577
+27,9,High School,Engineer,Marketing,Male,3,6,67480
+23,4,High School,Scientist,Finance,Male,1,14,53669
+34,16,PhD,Scientist,Finance,Male,2,1,106702
+32,14,Bachelor's,Scientist,Engineering,Female,4,17,95906
+44,1,PhD,Manager,Marketing,Female,5,11,93987
+37,5,Bachelor's,Engineer,Marketing,Male,2,19,68220
+52,8,High School,Scientist,Engineering,Male,4,3,65320
+32,14,High School,Scientist,Marketing,Female,5,11,85942
+37,19,Bachelor's,Manager,HR,Female,5,5,98902
+29,11,PhD,Engineer,Engineering,Female,1,17,102650
+25,7,Bachelor's,Analyst,HR,Female,2,7,56126
+61,12,Bachelor's,Manager,Marketing,Female,5,10,93437
+25,7,Bachelor's,Engineer,Engineering,Female,5,11,74581
+46,10,High School,Scientist,Marketing,Male,4,3,84655
+24,3,Bachelor's,Engineer,Engineering,Female,1,10,62255
+53,33,High School,Engineer,Marketing,Female,3,10,105888
+24,3,Master's,Engineer,HR,Female,1,14,63184
+48,18,Bachelor's,Analyst,HR,Male,3,12,89121
+50,5,Bachelor's,Engineer,Marketing,Male,2,15,82691
+53,33,Bachelor's,Analyst,Engineering,Male,2,10,111305
+40,17,Bachelor's,Scientist,Finance,Male,5,10,95445
+42,12,PhD,Analyst,HR,Male,2,19,108337
+26,8,Bachelor's,Scientist,HR,Female,5,1,79374
+39,18,High School,Scientist,Finance,Male,1,10,88965
+49,10,Bachelor's,Analyst,Marketing,Male,2,2,67764
+43,0,High School,Manager,Engineering,Male,1,17,60691
+42,23,High School,Director,Marketing,Female,1,7,115978
+27,6,PhD,Engineer,Operations,Male,2,7,87575
+22,4,Master's,Director,HR,Male,1,9,95415
+26,8,PhD,Engineer,Operations,Female,2,2,92136
+33,14,Bachelor's,Engineer,HR,Male,2,14,78801
+47,0,Bachelor's,Scientist,HR,Female,2,17,65418
+55,11,High School,Engineer,Operations,Female,3,1,78506
+35,6,Bachelor's,Engineer,Operations,Male,1,9,69347
+47,14,Master's,Analyst,Marketing,Male,4,19,98098
+48,20,Bachelor's,Director,Operations,Female,2,4,105341
+30,12,Master's,Analyst,Marketing,Male,1,8,71520
+47,28,Master's,Engineer,Marketing,Male,5,13,121283
+43,24,High School,Scientist,Marketing,Male,2,4,93447
+51,32,Bachelor's,Analyst,HR,Female,2,9,111614
+38,20,Master's,Analyst,HR,Male,4,9,96922
+47,29,Bachelor's,Manager,Operations,Female,3,18,132612
+57,25,Master's,Engineer,HR,Female,3,12,114181
+22,4,Bachelor's,Scientist,Operations,Male,2,10,58747
+29,11,High School,Analyst,HR,Male,1,11,61841
+56,7,Bachelor's,Analyst,Engineering,Female,5,7,81269
+36,13,PhD,Scientist,Engineering,Male,5,9,124074
+43,9,High School,Engineer,Operations,Female,1,6,67012
+35,1,Master's,Manager,HR,Male,2,19,90399
+47,8,Bachelor's,Analyst,HR,Male,5,16,73039
+49,2,Master's,Manager,Marketing,Male,3,15,99198
+44,20,Master's,Director,Finance,Male,1,7,113092
+35,17,Bachelor's,Engineer,Operations,Male,4,16,92880
+45,7,Bachelor's,Director,Finance,Female,2,5,93903
+23,1,Master's,Director,Finance,Male,1,16,78673
+47,5,Bachelor's,Director,Operations,Male,5,1,89564
+35,17,Master's,Engineer,HR,Male,2,19,95870
+28,10,High School,Engineer,Operations,Female,3,5,66048
+24,6,Master's,Scientist,Finance,Male,2,7,85807
+44,24,Master's,Manager,HR,Female,2,19,125784
+39,11,PhD,Manager,Engineering,Male,3,5,109284
+59,4,High School,Scientist,Operations,Male,3,17,55178
+56,33,Bachelor's,Scientist,Operations,Male,2,8,126333
+36,14,Bachelor's,Director,HR,Female,3,1,107150
+46,14,Bachelor's,Scientist,Engineering,Male,1,2,74999
+58,22,Bachelor's,Analyst,Engineering,Male,3,15,100865
+49,5,High School,Manager,HR,Male,3,18,77665
+31,13,Master's,Scientist,Marketing,Female,2,11,98723
+60,22,Bachelor's,Analyst,Operations,Male,1,10,91476
+38,15,High School,Analyst,Operations,Male,4,4,71423
+60,14,Master's,Analyst,Finance,Male,4,5,94417
+43,24,Bachelor's,Analyst,HR,Male,5,4,109922
+47,10,High School,Director,Finance,Female,3,13,99019
+46,14,PhD,Analyst,Finance,Female,3,13,105693
+38,3,PhD,Director,Engineering,Male,1,18,110998
+34,16,Bachelor's,Director,Operations,Male,4,2,97356
+41,12,High School,Analyst,Finance,Male,5,16,81058
+46,21,Master's,Manager,Engineering,Male,1,1,107206
+25,7,Bachelor's,Analyst,HR,Male,3,19,77635
+31,13,Bachelor's,Analyst,Finance,Female,4,9,74978
+24,6,Bachelor's,Analyst,Operations,Female,5,3,62736
+39,3,Bachelor's,Manager,Finance,Female,2,7,76112
+57,26,Bachelor's,Engineer,HR,Female,4,10,117494
+43,25,Bachelor's,Engineer,Finance,Female,5,1,107168
+55,27,Bachelor's,Director,Operations,Female,1,10,129957
+29,11,PhD,Director,Engineering,Male,2,9,120776
+61,7,Bachelor's,Manager,Operations,Female,5,15,96765
+40,15,Master's,Scientist,Engineering,Male,5,15,105977
+58,29,Master's,Engineer,Marketing,Male,3,3,127726
+27,9,Bachelor's,Director,Operations,Female,4,5,103131
+47,1,Bachelor's,Engineer,Operations,Male,3,9,58272
+55,12,Bachelor's,Manager,HR,Male,2,9,89099
+27,3,Bachelor's,Manager,Finance,Female,5,7,78536
+58,25,Master's,Scientist,Engineering,Male,3,12,118418
+54,24,Bachelor's,Scientist,Engineering,Male,4,9,103682
+43,25,PhD,Manager,HR,Female,2,6,140865
+42,10,High School,Director,HR,Female,1,2,73356
+27,6,High School,Engineer,Finance,Male,3,9,59388
+27,9,Bachelor's,Analyst,Finance,Male,2,17,73494
+25,7,Bachelor's,Scientist,Operations,Male,1,1,67733
+51,12,Bachelor's,Analyst,Marketing,Female,3,19,81063
+32,14,Bachelor's,Director,Finance,Female,2,6,95912
+51,6,Bachelor's,Scientist,HR,Male,2,5,75219
+52,19,High School,Analyst,Finance,Male,3,2,77758
+45,3,PhD,Director,Engineering,Male,2,9,108429
+30,6,Bachelor's,Engineer,Marketing,Female,5,14,77204
+24,0,Master's,Director,Operations,Male,3,4,87255
+52,12,Master's,Scientist,Engineering,Female,2,4,90998
+61,21,PhD,Manager,Engineering,Male,1,15,142175
+58,20,High School,Engineer,Marketing,Female,1,8,89291
+57,21,Master's,Analyst,Operations,Female,5,4,109506
+45,27,Bachelor's,Scientist,HR,Female,3,16,117221
+52,8,Bachelor's,Manager,Operations,Male,2,4,80127
+27,9,Bachelor's,Director,Finance,Female,2,16,92468
+23,5,Master's,Manager,Engineering,Female,1,12,94659
+41,14,Bachelor's,Scientist,Finance,Male,5,16,92863
+49,9,Master's,Scientist,HR,Female,1,19,89811
+32,14,Bachelor's,Manager,Finance,Female,1,8,87219
+25,7,Master's,Director,Operations,Female,5,6,99701
+36,18,PhD,Manager,Finance,Female,3,10,127205
+27,9,Bachelor's,Scientist,HR,Male,2,5,74282
+51,25,PhD,Scientist,HR,Male,3,18,140655
+59,26,High School,Analyst,HR,Male,4,10,105652
+23,3,High School,Analyst,Operations,Female,4,10,57503
+36,18,High School,Engineer,HR,Female,4,7,82108
+32,14,Bachelor's,Scientist,Engineering,Female,5,18,98704
+29,9,Bachelor's,Analyst,HR,Male,1,1,66126
+47,24,High School,Manager,Finance,Male,3,7,102094
+26,8,High School,Director,Finance,Female,2,1,78306
+27,9,PhD,Manager,Finance,Male,4,15,103819
+47,9,Master's,Director,Operations,Male,3,4,110648
+25,7,Master's,Analyst,Finance,Female,4,10,81925
+40,4,Master's,Engineer,Operations,Male,4,9,88051
+41,23,Master's,Manager,Operations,Male,2,2,117056
+54,33,High School,Manager,HR,Male,5,14,134157
+41,23,Bachelor's,Manager,Engineering,Male,1,16,114838
+33,15,Master's,Director,HR,Female,5,1,115630
+22,4,Bachelor's,Analyst,HR,Male,3,2,53170
+47,21,Master's,Manager,Operations,Male,5,7,121185
+35,14,High School,Manager,Operations,Male,3,10,85953
+59,34,Bachelor's,Engineer,Finance,Female,3,1,119447
+58,27,Bachelor's,Engineer,Finance,Male,1,13,106200
+32,6,Bachelor's,Analyst,HR,Female,2,1,64904
+57,31,Bachelor's,Analyst,Marketing,Male,1,5,108718
+34,10,Master's,Scientist,Marketing,Male,5,16,99633
+24,6,High School,Engineer,Finance,Male,3,15,59846
+54,8,High School,Scientist,Marketing,Female,4,17,75218
+27,9,Master's,Director,Finance,Female,4,16,110827
+31,12,Master's,Scientist,Operations,Male,3,13,95830
+26,8,High School,Manager,HR,Male,1,11,74289
+44,1,Master's,Scientist,Engineering,Female,2,17,83207
+31,13,Bachelor's,Analyst,HR,Male,1,17,71742
+23,5,Bachelor's,Director,Finance,Female,3,2,89005
+34,16,High School,Manager,Finance,Male,3,13,86600
+61,17,Master's,Scientist,HR,Female,2,14,118368
+23,2,Master's,Director,Finance,Female,5,11,93068
+41,10,Bachelor's,Director,Marketing,Female,5,10,108153
+22,4,Master's,Manager,Marketing,Female,2,3,75063
+58,18,Bachelor's,Scientist,Finance,Male,5,17,106839
+30,3,Bachelor's,Director,Finance,Female,4,15,96628
+38,20,High School,Director,Marketing,Male,5,9,109711
+30,12,Bachelor's,Engineer,Finance,Male,5,10,97120
+32,14,High School,Director,Finance,Female,5,8,101473
+36,2,Bachelor's,Engineer,HR,Female,4,13,72578
+45,8,Master's,Scientist,Engineering,Female,5,18,99314
+59,7,Bachelor's,Scientist,Marketing,Male,4,5,84185
+56,32,Bachelor's,Scientist,HR,Female,2,6,114469
+51,5,High School,Analyst,Engineering,Female,1,17,54435
+52,3,Bachelor's,Scientist,Finance,Male,2,11,76079
+26,8,Bachelor's,Director,Finance,Male,1,16,88178
+35,1,Master's,Manager,HR,Male,2,9,80194
+32,4,High School,Engineer,Finance,Male,1,2,43962
+30,12,Master's,Analyst,Operations,Female,1,5,76912
+55,31,Master's,Scientist,HR,Female,3,1,136215
+33,15,Bachelor's,Scientist,Engineering,Female,1,4,76886
+56,7,Master's,Manager,HR,Female,1,4,94085
+56,7,Bachelor's,Manager,Marketing,Male,3,3,86088
+22,2,Bachelor's,Analyst,HR,Female,5,9,60020
+61,2,Bachelor's,Engineer,Finance,Male,5,12,73500
+43,21,Bachelor's,Scientist,Finance,Female,3,10,100444
+50,5,Bachelor's,Analyst,Operations,Male,4,2,65590
+29,1,Bachelor's,Director,Operations,Female,1,11,81048
+32,14,Bachelor's,Director,Operations,Male,1,10,97939
+58,1,Bachelor's,Analyst,Engineering,Male,3,6,69737
+35,16,High School,Scientist,Operations,Female,3,18,88197
+51,33,PhD,Analyst,Engineering,Male,4,2,137318
+56,33,Master's,Scientist,Operations,Female,5,2,144566
+42,22,Bachelor's,Manager,Engineering,Male,2,10,112119
+58,29,High School,Analyst,HR,Female,5,16,102829
+26,7,Master's,Scientist,HR,Male,1,12,74727
+40,21,Master's,Analyst,Finance,Male,3,1,101022
+35,4,Master's,Analyst,Engineering,Male,4,8,66681
+47,12,Bachelor's,Scientist,Marketing,Male,5,16,104752
+25,7,Bachelor's,Scientist,Finance,Male,4,18,83111
+46,28,High School,Engineer,HR,Male,5,13,110933
+46,15,High School,Analyst,Engineering,Male,1,15,71486
+39,21,Master's,Director,Operations,Male,2,12,124201
+61,15,Master's,Analyst,Marketing,Female,4,8,89779
+29,11,Bachelor's,Analyst,HR,Female,4,10,67935
+60,16,Master's,Scientist,Finance,Male,2,14,115505
+61,15,Bachelor's,Analyst,Engineering,Female,4,5,96567
+35,11,Bachelor's,Analyst,Marketing,Female,4,18,77321
+53,7,Bachelor's,Director,Engineering,Male,5,19,108939
+59,19,PhD,Scientist,Operations,Female,5,15,133532
+54,2,High School,Analyst,Finance,Male,2,6,54321
+44,15,PhD,Manager,Engineering,Male,1,11,109474
+36,18,Master's,Engineer,HR,Male,4,11,96859
+54,22,High School,Director,Finance,Female,1,18,119212
+46,27,Bachelor's,Analyst,HR,Female,2,18,96303
+38,4,Master's,Manager,Engineering,Male,2,10,85059
+54,19,Bachelor's,Analyst,Finance,Male,5,2,94261
+23,0,PhD,Analyst,HR,Female,4,9,74999
+35,17,PhD,Scientist,Operations,Male,3,14,118872
+61,20,Bachelor's,Scientist,Operations,Male,2,19,101512
+61,19,Bachelor's,Scientist,Engineering,Female,4,10,107378
+60,5,PhD,Manager,Finance,Female,1,4,100405
+27,9,Master's,Analyst,Marketing,Female,5,6,94393
+27,9,High School,Engineer,Finance,Female,1,14,56372
+24,6,High School,Director,Operations,Female,2,4,76946
+28,10,Bachelor's,Scientist,HR,Male,2,15,81256
+29,11,PhD,Scientist,Marketing,Male,1,16,99617
+36,15,Master's,Analyst,Engineering,Male,2,7,82614
+50,11,Master's,Analyst,Marketing,Female,4,17,99185
+54,33,High School,Manager,Engineering,Female,2,19,127584
+51,13,Bachelor's,Manager,Marketing,Male,5,19,98465
+60,32,Master's,Scientist,Engineering,Female,4,17,142893
+48,22,High School,Analyst,Engineering,Male,3,6,97007
+57,1,Bachelor's,Engineer,Marketing,Male,2,11,64318
+50,20,High School,Director,Marketing,Male,2,16,110788
+59,1,Master's,Analyst,Engineering,Male,5,8,84340
+54,26,PhD,Analyst,Operations,Female,5,11,128548
+58,8,Bachelor's,Manager,Marketing,Male,1,7,92237
+48,0,Bachelor's,Director,Finance,Female,1,19,85664
+54,10,Bachelor's,Scientist,HR,Female,1,10,75678
+25,2,PhD,Analyst,Engineering,Male,5,9,80458
+43,22,High School,Scientist,Engineering,Female,1,4,87275
+23,5,Bachelor's,Analyst,HR,Male,1,15,49432
+31,3,Bachelor's,Scientist,Operations,Male,3,13,70302
+26,8,Master's,Director,HR,Male,1,2,91305
+31,5,Bachelor's,Manager,Marketing,Female,2,2,75282
+54,34,High School,Director,HR,Male,5,16,137845
+59,21,Bachelor's,Engineer,Engineering,Male,4,9,109915
+34,14,Master's,Manager,HR,Male,3,13,110088
+52,21,High School,Director,Finance,Male,5,3,113070
+57,11,Master's,Engineer,Marketing,Female,5,9,101198
+45,17,High School,Analyst,HR,Male,2,13,78914
+36,18,Bachelor's,Analyst,Engineering,Male,1,2,88111
+50,29,Bachelor's,Scientist,Marketing,Male,2,8,110437
+29,11,Master's,Manager,Engineering,Male,1,9,93038
+26,8,Bachelor's,Analyst,Operations,Female,1,16,61696
+50,13,Master's,Manager,Finance,Male,5,2,109724
+25,5,Master's,Analyst,Operations,Female,1,6,68966
+33,2,Bachelor's,Scientist,Finance,Male,3,8,62840
+23,5,Master's,Director,HR,Male,3,5,93779
+48,6,Master's,Scientist,Marketing,Female,3,9,91430
+52,13,High School,Engineer,HR,Male,5,1,88386
+57,8,Bachelor's,Analyst,Finance,Female,2,9,73967
+57,14,PhD,Engineer,Finance,Female,4,10,113910
+47,20,High School,Engineer,Finance,Male,1,4,82934
+48,30,Master's,Manager,Engineering,Male,4,3,140240
+26,1,PhD,Analyst,Marketing,Female,2,10,76138
+41,23,High School,Engineer,HR,Male,2,15,85855
+32,1,Master's,Director,HR,Male,5,11,99861
+31,13,Bachelor's,Engineer,Operations,Male,3,14,79997
+61,17,Bachelor's,Director,Finance,Male,3,6,108015
+59,13,High School,Manager,Finance,Female,2,12,80458
+27,9,High School,Engineer,Finance,Male,5,13,71919
+29,11,Master's,Scientist,HR,Male,5,17,94117
+44,9,Master's,Manager,Operations,Female,1,16,83668
+47,24,Master's,Director,Engineering,Male,3,3,132207
+33,1,Bachelor's,Manager,Marketing,Male,2,2,64547
+47,24,High School,Engineer,Engineering,Female,4,11,100150
+34,16,Master's,Analyst,HR,Male,3,9,90655
+61,30,Bachelor's,Analyst,Finance,Female,1,3,116746
+39,13,PhD,Director,Marketing,Female,5,18,136686
+46,0,Master's,Director,HR,Male,2,15,89201
+54,15,Master's,Analyst,HR,Male,3,14,97181
+61,2,PhD,Director,HR,Male,4,2,118473
+33,15,High School,Manager,Marketing,Male,1,17,90983
+57,5,Master's,Scientist,Marketing,Female,1,8,74318
+25,7,Bachelor's,Scientist,Operations,Female,3,10,69228
+26,8,PhD,Manager,Operations,Male,4,18,106090
+58,33,Bachelor's,Scientist,Engineering,Female,1,19,123001
+29,7,Master's,Engineer,Marketing,Female,2,8,75822
+49,20,Master's,Manager,Marketing,Female,1,8,113870
+52,33,High School,Director,Marketing,Male,4,3,139378
+30,3,Bachelor's,Manager,Operations,Male,5,3,82313
+50,24,Master's,Analyst,HR,Male,5,12,115666
